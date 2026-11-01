@@ -1,0 +1,48 @@
+{
+  "adapter": "yolox-onnx-1",
+  "input_name": "images",
+  "input_shape": [
+    1,
+    3,
+    640,
+    640
+  ],
+  "input_dtype": "float32",
+  "color_order": "BGR",
+  "value_range": [
+    0,
+    255
+  ],
+  "normalization": {
+    "mean": [
+      0,
+      0,
+      0
+    ],
+    "std": [
+      1,
+      1,
+      1
+    ]
+  },
+  "resize": "top-left-letterbox",
+  "padding": 114,
+  "interpolation": "cv2.INTER_LINEAR",
+  "inverse": "official_scalar_ratio",
+  "output_name": "output",
+  "output_layout": "N,8400,5+C",
+  "decoded": false,
+  "strides": [
+    8,
+    16,
+    32
+  ],
+  "nms": "class-aware-inclusive-pixel",
+  "id": "yolox-s-coco-0.1.1rc0",
+  "version": "0.1.1rc0",
+  "sha256": "c5c2d13e59ae883e6af3b45daea64af4833a4951c92d116ec270d9ddbe998063",
+  "framework_version": "YOLOX 0.1.1rc0 official ONNX",
+  "num_classes": 80,
+  "license_source": "https://github.com/Megvii-BaseDetection/YOLOX/blob/main/LICENSE",
+  "weight_source": "https://github.com/Megvii-BaseDetection/YOLOX/releases/download/0.1.1rc0/yolox_s.onnx"
+}

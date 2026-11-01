@@ -1,0 +1,74 @@
+[
+  {
+    "source_file": "Felis_catus-cat_on_snow.jpg",
+    "file": "雪地中的猫.jpg",
+    "author": "Von.grzanka",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "expected_broad_category": "动物",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Felis_catus-cat_on_snow.jpg?download=1",
+    "sha256": "8589018b75199268fefb434d565a1c43d0a5f921137e91798756a49e4f7a2d8b",
+    "distributed_size": [
+      1600,
+      1067
+    ],
+    "modifications": "Resized to longest edge <=1600, RGB JPEG re-encoding, metadata removed",
+    "collected_at": "2026-11-01",
+    "purpose": "Functional smoke test, not accuracy ground truth"
+  },
+  {
+    "source_file": "YellowLabradorLooking_new.jpg",
+    "file": "拉布拉多犬.jpg",
+    "author": "Original photograph: Elf; derivative work: Djmirko; retouch: FT2",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "expected_broad_category": "动物",
+    "source_page": "https://commons.wikimedia.org/wiki/File:YellowLabradorLooking_new.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg?download=1",
+    "sha256": "18b8e366162292a3c46f15cbb970639c856d374029be112a724e6e2dc8a4d6bb",
+    "distributed_size": [
+      700,
+      577
+    ],
+    "modifications": "Resized to longest edge <=1600, RGB JPEG re-encoding, metadata removed",
+    "collected_at": "2026-11-01",
+    "purpose": "Functional smoke test, not accuracy ground truth"
+  },
+  {
+    "source_file": "Sunflower_with_Bee.jpg",
+    "file": "向日葵与蜜蜂.jpg",
+    "author": "Alabama Extension / Justin Miller",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "expected_broad_category": "植物",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sunflower_with_Bee.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Sunflower_with_Bee.jpg?download=1",
+    "sha256": "2f7c0af23c7004c40d619448beae822aa06a7c0a4b8257e29bd7e35efa3626ff",
+    "distributed_size": [
+      1067,
+      1600
+    ],
+    "modifications": "Resized to longest edge <=1600, RGB JPEG re-encoding, metadata removed",
+    "collected_at": "2026-11-01",
+    "purpose": "Functional smoke test, not accuracy ground truth"
+  },
+  {
+    "source_file": "Cup_with_Lid.jpg",
+    "file": "银质带盖杯.jpg",
+    "author": "National Museum in Kraków / Christian Franck (historic object)",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "expected_broad_category": "物品",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cup_with_Lid.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cup_with_Lid.jpg?download=1",
+    "sha256": "ed3fd68d179e8706451cdac15756a13e28a675ef0d5e05e279fe35a3ab593659",
+    "distributed_size": [
+      1164,
+      1600
+    ],
+    "modifications": "Resized to longest edge <=1600, RGB JPEG re-encoding, metadata removed",
+    "collected_at": "2026-11-01",
+    "purpose": "Functional smoke test, not accuracy ground truth"
+  }
+]

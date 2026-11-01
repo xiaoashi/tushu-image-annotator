@@ -1,0 +1,46 @@
+{
+  "model": "ecnu-max",
+  "date": "2026-11-01",
+  "images": 4,
+  "successful_images": 4,
+  "purpose": "Functional validation only; no accuracy metrics or species identification claim",
+  "results": [
+    {
+      "summary": "画面主体是一朵盛开的向日葵，黄色花瓣围绕中央密集花盘，左侧花瓣上停着一只蜜蜂。",
+      "candidate_count": 2,
+      "elapsed_seconds": 18.354,
+      "warnings": [
+        "目标框为基于可见图像的初步估计，未经过人工核实。",
+        "向日葵超出画面边界，边界框按整图范围记录。",
+        "蜜蜂仅能识别为蜂类，具体物种不确定。"
+      ]
+    },
+    {
+      "summary": "一只浅黄色犬站在绿色草地上，身体侧向镜头，头部转向左侧。",
+      "candidate_count": 2,
+      "elapsed_seconds": 18.146,
+      "warnings": [
+        "边界框为基于可见内容的估计，未经过人工核实。",
+        "未对犬只品种和草种作确定判断。"
+      ]
+    },
+    {
+      "summary": "画面中央是一件带盖的金属器皿，表面有花卉浮雕装饰，底部由球形足支撑，背景为纯色。",
+      "candidate_count": 1,
+      "elapsed_seconds": 33.631,
+      "warnings": [
+        "浮雕花卉为器物装饰纹样，未作为独立植物目标标注。",
+        "边界框为基于可见轮廓的估计，未人工核实。"
+      ]
+    },
+    {
+      "summary": "一只虎斑猫站在积雪地面上，身体侧向镜头、头部回望，背景为虚化的雪地。",
+      "candidate_count": 1,
+      "elapsed_seconds": 16.951,
+      "warnings": [
+        "仅依据图像可见内容生成，边界框未经过人工核实。",
+        "背景雪地纹理较虚化，未作为独立目标标注。"
+      ]
+    }
+  ]
+}
